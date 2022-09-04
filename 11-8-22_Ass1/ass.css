@@ -1,0 +1,139 @@
+*{
+    padding-right: 22px;
+    padding-left: 22px;
+}
+
+.btnII{
+    background-color: orange;
+    border-color: orange;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.slide-1{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.slide1-text{
+    border-top: 90px;
+    font-size: 20px;
+}
+
+.g-start{
+    background-color: orange;
+    color: white;
+    border-color: orange;
+    padding-left: 27px;
+    padding-top: 10px;
+    padding-right: 27px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.slide-2{
+    max-width: 100%;
+    max-height: 70%;
+}
+
+.slide2-text{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sun{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    border-color: orange;
+    margin-left: 450px;
+}
+
+.slide-3{
+    margin-top: 110px;
+}
+
+.slide-4{
+    margin-top: 100px;
+}
+
+.slide-5{
+    margin-top: 100px;
+}
+
+.slide-6{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.s6-h6{
+    margin-top: 40px;
+    color: rgb(56, 56, 141);
+}
+
+.s6-btn{
+    margin-top: 30px;
+    background-color: orange;
+    color: white;
+    border-color: orange;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.card-group{
+    margin-bottom: 150px;
+    margin-top: 70px;
+}
+
+.slide-8{
+    margin-top: 100px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.c1-text{
+    margin-top: 200px;
+}
+
+.c2-list{
+    margin-top: 30px;
+}
+
+.c3-list{
+    margin-top: 30px;
+}
+.s-item{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.t-item{
+    background-color: orange;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    border-color: orange;
+    border-radius: 5px;
+    border-top: 20px;
+}
+
+.f-item2{
+    margin-top: 110px;
+}
